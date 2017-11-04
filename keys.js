@@ -1,7 +1,7 @@
 console.log('Success: keys loaded');
-var Twitter = require("twitter");
+const Twitter = require("twitter");
 
-var client = new Twitter ({
+const client = new Twitter ({
   consumer_key: 'FWxBpoI9qPLsHhm5hfbqu8RCy',
   consumer_secret: 'rxru7lyOyP4OneBm2Pq3FnsFlrbckDd7w1UybpjQ7127CjrIVi',
   access_token_key: '3788026639-RhJ0aMwdzIwgYJ0VRsgiBk0mmK13svCtxBidDGX',

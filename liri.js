@@ -1,8 +1,8 @@
-var fs = require("fs");
-var omdbapi = require('omdbapi')
-var request = require("request");
-var client = require('./keys.js');
-var inquirer = require("inquirer");
+const fs = require("fs");
+const omdbapi = require('omdbapi');
+const request = require("request");
+const client = require('./keys.js');
+const inquirer = require("inquirer");
 
 inquirer
 .prompt ([
@@ -22,7 +22,9 @@ inquirer
     console.log("Welcome " + response.username + "!");
     console.log("You have selected: " + response.choices);
     if (response.choices === "my-tweets"){
-        var params = {screen_name: 'cr6554'};
+        var params = {
+            screen_name: 'csr4'
+        };
         client.get('statuses/user_timeline', params, function(error, tweets, response) {
             if (!error) {
                 for (var i = 0; i < 20; i++){
