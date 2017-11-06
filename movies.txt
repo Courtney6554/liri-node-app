@@ -1,4 +1,6 @@
 		****YOUR SAVED MOVIE SEARCHES****
+==================================================
+			TITLE: OUT COLD Released (2001)
 ===================================================
 
 IMDB Rating: 6.3/10
@@ -26,5 +28,38 @@ Starring: Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer
 
 Produced by: USA
 Languages: English
+
+==================================================
+			TITLE: SNATCH Released (2000)
+===================================================
+
+added by: 
+
+IMDB Rating: 8.3/10
+RT Rating: 73%
+
+Plot Summary: 
+Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
+
+Starring: Benicio Del Toro, Dennis Farina, Vinnie Jones, Brad Pitt
+
+Produced by: UK, USA
+Languages: English, Russian
+
+==================================================
+			TITLE: LION Released (2016)
+===================================================
+
+
+IMDB Rating: 8.1/10
+RT Rating: 85%
+
+Plot Summary: 
+A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+
+Starring: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+
+Produced by: UK, Australia, USA
+Languages: English, Hindi, Bengali
 
 ==================================================
